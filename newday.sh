@@ -1,4 +1,6 @@
 #!/bin/bash
-mkdir 002-command-line
-mkdir 002-command-line/projects
-touch 002-command-line/notes.md
+mkdir ~/codefriends/$1
+mkdir ~/codefriends/$1/projects
+touch ~/codefriends/$1/notes.md
+
+echo "Created ~/codefriends/$1"
