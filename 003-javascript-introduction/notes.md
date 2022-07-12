@@ -1,0 +1,3 @@
+ - JavaScript acts as an interpreter between the computer and yourself
+ - Strings must be written in quotation marks
+ - There are different rules to understand the code, those rules are called syntax.
