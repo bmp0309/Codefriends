@@ -19,6 +19,6 @@ true Boolean
 true Boolean
 30 Number
 10, 73.3 Number
-
-
+Error  - Const was already declared
+Error  - Const was already declared
 7 Number
